@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TmdbBorrador</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="fav">Fav</string>
+    <string name="category">Category</string>
+    <string name="trending_movies">Popular movies</string>
+    <string name="item_image">Item image</string>
+    <string name="star_icon">star icon</string>
+    <string name="upcoming_movies">Upcoming movies</string>
+    <string name="top_rated">Top rated movies</string>
+    <string name="movie_detail_poster">Movie detail poster</string>
+    <string name="add_favourite_movie_fab">Add favourite movie fab</string>
+    <string name="this_is_movie_name">This is the movie name</string>
+    <string name="movie_detail_image">Movie detail image</string>
+    <string name="cast">Cast</string>
+    <string name="cast_images">Cast images</string>
+    <string name="add_to_my_list">Add to my list</string>
+    <string name="favorite_movie_image">Favorite movie image</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="place_of_birth">Place of birth</string>
+    <string name="biography">Biography</string>
+    <string name="images">Images</string>
+    <string name="filmography">Filmography</string>
+    <string name="director">Director</string>
+</resources>
