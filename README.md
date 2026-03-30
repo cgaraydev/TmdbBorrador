@@ -1,21 +1,21 @@
 This App features:
 
-Kotlin
-XML
-ViewBinding
-MVVM
-LiveData
-Navigation Component
-Fragments - Activities
-RecyclerView
-DiffUtil
-Room
-Retrofit
-Glide
-YouTube Player API
-ConstraintLayout
-CardView
-Custom Fonts
+* Kotlin
+* XML
+* ViewBinding
+* MVVM
+* LiveData
+* Navigation Component
+* Fragments - Activities
+* RecyclerView
+* DiffUtil
+* Room
+* Retrofit
+* Glide
+* YouTube Player API
+* ConstraintLayout
+* CardView
+* Custom Fonts
 
 Screens: Main, Home, Movie Details, People, Categories
 
