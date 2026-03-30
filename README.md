@@ -1,4 +1,4 @@
-This App features:
+features:
 
 * Kotlin
 * XML
@@ -19,4 +19,4 @@ This App features:
 
 Screens: Main, Home, Movie Details, People, Categories
 
-- Esta App es de las primeras que practiqué, no uso repositories ni arquitectura Clean. Actualmente debería utilizar al menos tecnologías como DI, Flows, Coroutines, etc.
+Esta app es uno de mis primeros proyectos en Android. No utiliza Repository ni arquitectura Clean. Actualmente la mejoraría incorporando inyección de dependencias, Coroutines, Flow y una arquitectura más robusta.
